@@ -8,10 +8,13 @@ __pycache__/
 # 📦 Entornos virtuales
 env/
 venv/
+.venv/
 
 # 🧪 Archivos temporales o de logs
 *.log
 *.tmp
+*.bak
+*.swp
 
 # ⚙️ Configuración del entorno de desarrollo
 .vscode/
@@ -19,6 +22,9 @@ venv/
 
 # 🛠️ Archivos ejecutables generados
 *.exe
+*.zip
+dist/
+build/
 
 # 🖥️ Archivos del sistema (Mac / Windows)
 .DS_Store
