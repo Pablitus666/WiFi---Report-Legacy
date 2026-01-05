@@ -50,8 +50,9 @@ Aplicación gráfica en Python que permite **escanear redes Wi-Fi guardadas en W
 ## 🚀 Instalación y uso
 
 ### Opción 1: Ejecutable (.exe) — Recomendado
-1. Descarga el archivo `.exe`
-2. Ejecuta el programa
+1.  Descarga el archivo `wifi_report.zip` desde la [sección de Releases](https://github.com/Pablitus666/WiFi---Report/releases) del repositorio. Este archivo contiene el ejecutable `wifi_report.exe`.
+2.  Descomprime el archivo `wifi_report.zip`.
+3.  Ejecuta `wifi_report.exe`.
 3. Presiona **SCAN** para escanear redes
 4. Presiona **SAVE** para guardar el reporte
 5. Presiona **INFO** para ver información del desarrollador
