@@ -79,6 +79,7 @@ El archivo de reporte `.txt` generado por la aplicación incluye la siguiente in
 
 **Nota:** La cantidad de redes encontradas se muestra directamente en la interfaz de usuario de la aplicación y no se guarda en el archivo de reporte.
 
+---
 
 🛠️ Tecnologías utilizadas
 Python 3
