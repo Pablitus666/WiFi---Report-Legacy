@@ -57,31 +57,27 @@ Aplicación gráfica en Python que permite **escanear redes Wi-Fi guardadas en W
 5. Presiona **INFO** para ver información del desarrollador
 
 ### Opción 2: Ejecutar desde código fuente
-```bash
-python wifi_scanner.py
-📄 Reporte generado
-El archivo .txt incluye:
 
-Banner ASCII
+1.  Asegúrate de tener Python 3 instalado.
+2.  Clona o descarga este repositorio.
+3.  Abre una terminal en el directorio raíz del proyecto.
+4.  Ejecuta el script:
+    ```bash
+    python wifi_report.py
+    ```
+5.  El programa se iniciará y podrás interactuar con la GUI.
 
-Fecha y hora
+El archivo de reporte `.txt` generado por la aplicación incluye la siguiente información:
 
-Usuario del sistema
+-   **Banner ASCII:** Un encabezado distintivo.
+-   **Fecha y Hora:** El momento en que se generó el reporte.
+-   **Usuario del Sistema:** El nombre de usuario actual.
+-   **Sistema Operativo:** Detalles del sistema operativo Windows.
+-   **Lista de Redes Wi-Fi y Contraseñas:** Información detallada de las redes guardadas y sus contraseñas (si están disponibles).
+-   **Firma del Desarrollador:** Información del autor.
 
-Sistema operativo
+**Nota:** La cantidad de redes encontradas se muestra directamente en la interfaz de usuario de la aplicación y no se guarda en el archivo de reporte.
 
-Lista de redes Wi-Fi y contraseñas
-
-Firma del desarrollador
-
-Ejemplo:
-
-yaml
-Copiar código
-Redes encontradas: 12
-(Este dato se muestra en pantalla, no se guarda en el archivo)
-
----
 
 🛠️ Tecnologías utilizadas
 Python 3
