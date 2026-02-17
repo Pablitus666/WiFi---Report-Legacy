@@ -1,3 +1,34 @@
+⚠️ WiFi Scanner – Legacy Version
+
+Este repositorio contiene la versión monolítica original de WiFi Scanner.
+
+👉 La versión actual, modular, mantenida y en producción se encuentra aquí:
+https://github.com/Pablitus666/Wifi---Scanner.git
+
+La nueva versión incluye:
+
+Arquitectura modular (separación clara de GUI, lógica y utilidades)
+
+Mejor manejo de estado
+
+Internacionalización (LocalizationManager)
+
+Gestión avanzada de recursos
+
+Controlador desacoplado
+
+Mejor estructura para mantenimiento y escalabilidad
+
+Este repositorio se conserva únicamente con fines:
+
+📚 Históricos
+
+🎓 Educativos
+
+🔎 Referencia comparativa
+
+No recibe nuevas funcionalidades ni mantenimiento activo.
+
 # 📡 WiFi Scanner (Windows)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
